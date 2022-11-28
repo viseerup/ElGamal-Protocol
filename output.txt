@@ -1,0 +1,8 @@
+Alice is sending a confidencial message to Bob... 
+
+Before the message gets to Bob Eve(the adversary) 
+ reads Alice's Message by Brute forcing BobSK and she reads : 2000
+
+After that Mallory malicious changes Alice's message before it gets to Bob 
+
+Bob decrypts Alice's message and reads: 6000
